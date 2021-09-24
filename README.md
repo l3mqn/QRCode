@@ -1,11 +1,11 @@
 # QRCode v1.0
-##Qr Kod Oluşturma;
+#Qr Kod Oluşturma;
 
 Dosyanın içinde bulunan metin dosyasına çevirmek istediğiniz mesajı veya linki girin.
 
 üretici.py dosyasını çalıştırın bulunduğu klasöre bir adet "qrcode001.png" dosyası oluşturacaktır.
 
-##Qr Kod Okutma;
+#Qr Kod Okutma;
 
 okuyucu.py dosyasının bulunduğu klasöre okutmak istediğiniz QR kodun resmini atın.
 
