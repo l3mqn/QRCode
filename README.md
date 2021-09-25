@@ -1,4 +1,8 @@
 # QRCode v1.0
+## Gerekli
+
+* Herhangi bir işlem yapmadan önce bat dosyasını çalıştırın ve gerekli modülleri yükleyin
+
 ## Qr Kod Oluşturma;
 
 * Dosyanın içinde bulunan metin dosyasına çevirmek istediğiniz mesajı veya linki girin.
